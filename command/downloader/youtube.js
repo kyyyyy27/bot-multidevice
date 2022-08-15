@@ -42,8 +42,8 @@ module.exports = {
 						{ urlButton: { displayText: "Source", url: teks } },
 						{
 							urlButton: {
-								displayText: "Short Link",
-								url: "https://sl.rzkyfdlh.tech",
+								displayText: "Group",
+								url: "https://chat.whatsapp.com/LvChjFNiaypEBIxiJjz7om",
 							},
 						},
 						{ quickReplyButton: { displayText: "Audio 🎶", id: "#ytmp3 " + teks } },
