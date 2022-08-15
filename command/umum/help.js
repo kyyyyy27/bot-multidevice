@@ -108,7 +108,7 @@ ${
 					templateButtons: [
 						{ urlButton: { displayText: "Group", url: "https://chat.whatsapp.com/LvChjFNiaypEBIxiJjz7om" } },
 						{ urlButton: { displayText: "Qris", url: "https://telegra.ph/file/8b56819006176f6cbbe22.jpg" } },
-						{ quickReplyButton: { displayText: "Script Bot📑", id: "BELI DEK" } },
+						{ quickReplyButton: { displayText: "Owner", id: ".owner" } },
 						{ quickReplyButton: { displayText: "Changelog📋", id: "#changelog" } },
 						{ quickReplyButton: { displayText: "Dashboard📊", id: "#db" } },
 					],
