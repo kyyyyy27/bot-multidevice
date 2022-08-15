@@ -71,7 +71,7 @@ module.exports = {
 					templateButtons: [
 						{ urlButton: { displayText: "Group", url: "https://chat.whatsapp.com/LvChjFNiaypEBIxiJjz7om" } },
 						{ urlButton: { displayText: "Donasi", url: "https://telegra.ph/file/8b56819006176f6cbbe22.jpg" } },
-						{ quickReplyButton: { displayText: "Script Bot📑", id: "BELI DEK" } },
+						{ quickReplyButton: { displayText: "Random", id: ".sticker" } },
 						{ quickReplyButton: { displayText: "Owner👥", id: "#owner" } },
 						{ quickReplyButton: { displayText: "Dashboard📊", id: "#db" } },
 					],
